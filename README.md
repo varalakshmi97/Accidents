@@ -10,10 +10,16 @@ Introduction
 Objectives
 
 •Identifying the major cause of accidents (weather conditions (wind, humidity, snow etc), traffic rules violation etc). From, this we can study the impact of wind or other environmental stimuli on accidents. So, we can alert people whenever weather conditions are going bad. 
+
 •Identifying the Point Of Interest i.e., at which place accidents are occurring majorly i.e., near amenities, crossing, bump, junction etc. From, this we can limit the speed at those particular place and warn people.
+
 •Identifying what are the reasons of  high severity accidents.
-•Identifying during which months and days accidents are frequent. 
+
+•Identifying during which months and days accidents are frequent.
+
 •Identifying accident hotspot locations.
+
 •Identifying the threshold values of temperature, wind or visibility beyond which accidents are occurring.
+
 •Predicting the severity, POI of the accidents using Machine Learning technique and comparing their accuracies.
 
